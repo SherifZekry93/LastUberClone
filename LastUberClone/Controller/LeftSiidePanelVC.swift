@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  LeftSiidePanelVC.swift
 //  LastUberClone
 //
 //  Created by Sherif  Wagih on 12/18/18.
@@ -7,14 +7,8 @@
 //
 
 import UIKit
-
-class ViewController: UIViewController {
-
+class LeftSidePanelVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-
 }
-
